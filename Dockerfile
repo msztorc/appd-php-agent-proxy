@@ -1,7 +1,7 @@
 FROM php:8.0.11-cli AS appd-proxy-installer
 
 ARG AGENT_PATH=/opt/appdynamics/php-agent
-ARG AGENT_VERSION=21.11.0.396
+ARG AGENT_VERSION=21.12.2.13
 
 ARG AGENT_LOGS_PATH=/tmp/appd/logs/
 ARG AGENT_CTRL_PATH=/tmp/appd/ctrl/
