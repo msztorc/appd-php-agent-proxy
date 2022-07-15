@@ -1,6 +1,19 @@
 # appd-php-agent-proxy
 Appdynamics PHP agent sidecar proxy
 
+
+```bash
+docker pull msztorc/appd-php-agent-proxy
+```
+
+Semantic versioning according to php-agent releases
+```bash
+docker pull msztorc/appd-php-agent-proxy:22.3.0
+```
+More docker images are available on DockerHub: https://hub.docker.com/r/msztorc/appd-php-agent-proxy/tags
+
+---
+
 #### Build
 
 ```bash
