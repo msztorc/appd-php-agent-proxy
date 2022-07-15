@@ -1,3 +1,5 @@
+[<img src="https://img.shields.io/badge/dockerhub-images-success.svg?logo=DOCKER">](<https://hub.docker.com/r/msztorc/appd-php-agent-proxy/tags>)
+
 # appd-php-agent-proxy
 Appdynamics PHP agent sidecar proxy
 
