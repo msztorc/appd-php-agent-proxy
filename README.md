@@ -29,3 +29,11 @@ docker build --build-arg AGENT_VERSION=22.3.0.501 -t appd-php-agent-proxy .
 ```
 
 #### Examples
+
+#### Example 1 - [sidecar-proxy-php-cli-1](https://github.com/msztorc/appd-php-agent-docker-examples/tree/master/sidecar-proxy-php-cli-1/README.md)
+Short-lived php-cli job container - uses prebuilt proxy image 
+
+---
+
+#### Example 2 - [sidecar-proxy-php-cli-2](https://github.com/msztorc/appd-php-agent-docker-examples/tree/master/sidecar-proxy-php-cli-2/README.md)
+Short-lived php-cli job container - building own proxy image
