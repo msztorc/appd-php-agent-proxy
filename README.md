@@ -10,7 +10,7 @@ docker pull msztorc/appd-php-agent-proxy
 
 Semantic versioning according to php-agent releases
 ```bash
-docker pull msztorc/appd-php-agent-proxy:22.3.0
+docker pull msztorc/appd-php-agent-proxy:22.8.0
 ```
 More docker images are available on DockerHub: https://hub.docker.com/r/msztorc/appd-php-agent-proxy/tags
 
